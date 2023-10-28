@@ -1,3 +1,3 @@
-username = 'your way2sm username'
-password = 'your way2sms password'
-mobile_number = 'receivers mobile number'
+username = 'Ghost7868'
+password = 'ashir781.'
+mobile_number = '03369074236'
